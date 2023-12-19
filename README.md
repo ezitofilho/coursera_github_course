@@ -1,2 +1,3 @@
 # coursera_github_course
-graded assignment for GitHub course on coursera
+
+just basic files to follow the steps on the course
